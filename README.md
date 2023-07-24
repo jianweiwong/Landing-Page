@@ -24,7 +24,7 @@ Hi,I'm Wong Jian Wei🙌. I love getting involved in Competitive Programming and
 **Languages and Tools:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c-sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c#-239120?style=for-the-badge&logo=c-sharp&logoColor=ffdd54)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
