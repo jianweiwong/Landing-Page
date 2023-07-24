@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jianwei.wong.75/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jian-wei-wong/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/RMRgPyYux0g) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jian-wei-wong/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/RMRgPyYux0g) 
 <br />
 
 <br />
@@ -20,14 +20,6 @@ Hi,I'm Wong Jian Wei🙌. I love getting involved in Competitive Programming and
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 
-
-
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
 
 **Languages and Tools:**
 
