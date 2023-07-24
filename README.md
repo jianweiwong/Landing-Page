@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Jian Wei!]
+### Hello World 👋 It's Jian Wei!
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br />
 
-Hi,I'm Wong Jian Wei🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Wong Jian Wei🙌. I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -16,14 +16,10 @@ Hi,I'm Wong Jian Wei🙌, a Web Developer, Chatbot Developer and Cloud Enthusias
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
-- 👯 Part of Developer Community.
+- 🔭 I’m currently a student at Asia Pacific University.
+- 🌱 I’m currently learning Golang.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
 
 
@@ -43,4 +39,4 @@ Hi,I'm Wong Jian Wei🙌, a Web Developer, Chatbot Developer and Cloud Enthusias
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Jian Wei's github stats](https://github-readme-stats.vercel.app/api?username=jianweiwong&show_icons=true&hide_border=true)
